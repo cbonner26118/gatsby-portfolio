@@ -76,11 +76,6 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: 'https://codepen.io/cbonner26118',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/coltonbonner/',
     },
