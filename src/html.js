@@ -19,7 +19,11 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="image" property="og:image" content="https://imgur.com/TlJqy28.jpg" />
+        <meta
+          name="image"
+          property="og:image"
+          content="https://live.staticflickr.com/65535/50190604482_2b27c42157_z.jpg"
+        />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
