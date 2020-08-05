@@ -4,7 +4,8 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Colton Bonner | Software Engineer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Portfolio', // e.g: Welcome to my website
+  description:
+    'Welcome to my portfolio site, feel free to contact me via email. I look forward to working with you.', // e.g: Welcome to my website
 };
 
 // HERO DATA

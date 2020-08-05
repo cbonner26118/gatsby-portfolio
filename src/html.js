@@ -24,6 +24,7 @@ export default function HTML({
           property="og:image"
           content="https://live.staticflickr.com/65535/50190604482_2b27c42157_z.jpg"
         />
+        <meta name="author" content="Colton Bonner" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>
